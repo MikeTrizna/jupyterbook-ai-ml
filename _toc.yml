@@ -1,0 +1,8 @@
+- file: 00-overview.md
+  title: Overview and Schedule
+- file: 01-introduction.md
+- file: 02-what-is-ai.md
+- file: 03-ml-strengths.md
+- file: 04-ml-weaknesses.md
+- file: 05-ml-levels.md
+- file: 06-next-steps.md
